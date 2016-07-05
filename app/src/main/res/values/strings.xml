@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StatesListProject</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_listviewmain">listviewmain</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="boise_idaho">geo:43.6243835,-116.2284497,15z</string>
+</resources>
